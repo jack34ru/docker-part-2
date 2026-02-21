@@ -170,7 +170,7 @@ https://github.com/jack34ru/shvirtd-example-python
 Скриншот 1 к заданию 6  
 ![Screen 1](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_207.png)  
 Скриншот 2 к заданию 6  
-![Screen 2](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_208.png) 
+![Screen 2](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_208.png)  
 Скриншот 3 к заданию 6  
 ![Screen 3](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_205.png)   
 
