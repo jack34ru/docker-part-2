@@ -54,6 +54,19 @@ https://github.com/jack34ru/shvirtd-example-python
 Скриншот 2 к заданию 1  
 ![Screen 2](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_199.png)  
 
+Листинг кода Dockerfile.python
+```Dockerfile
+FROM python:3.12-slim
+
+#  Ваш код здесь #
+WORKDIR /app
+COPY . .
+RUN pip install -r requirements.txt
+
+# Запускаем приложение с помощью uvicorn, делая его доступным по сети
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "5000"] 
+```
+
 
 ## Задача 3
 1. Изучите файл "proxy.yaml"
