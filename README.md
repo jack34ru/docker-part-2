@@ -50,9 +50,9 @@ See 'snap info docker' for additional versions.
 https://github.com/jack34ru/shvirtd-example-python
 
 Скриншот 1 к заданию 1  
-![Screen 1](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_198.png)  
+![Screen 1](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_198.png)  
 Скриншот 2 к заданию 1  
-![Screen 2](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_199.png)  
+![Screen 2](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_199.png)  
 
 
 ## Задача 3
@@ -74,11 +74,11 @@ https://github.com/jack34ru/shvirtd-example-python
 ## Решение 3
 
 Скриншот 1 к заданию 3  
-![Screen 1](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_200.png)  
+![Screen 1](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_200.png)  
 Скриншот 2 к заданию 3  
-![Screen 2](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_201.png)  
+![Screen 2](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_201.png)  
 Скриншот 3 к заданию 3  
-![Screen 3](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_202.png)  
+![Screen 3](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_202.png)  
 
 Листинг кода compose.yaml:  
 ```yaml
@@ -139,7 +139,7 @@ networks:
 ## Решение 4
 
 Скриншот 1 к заданию 4  
-![Screen 1](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_203.png)  
+![Screen 1](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_203.png)  
 
 Листинг кода скрипта script-for-yacloud.sh
 ```bash
@@ -168,11 +168,11 @@ https://github.com/jack34ru/shvirtd-example-python
 ## Решение 6
 
 Скриншот 1 к заданию 6  
-![Screen 1](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_207.png)  
+![Screen 1](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_207.png)  
 Скриншот 2 к заданию 6  
-![Screen 2](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_208.png) 
+![Screen 2](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_208.png) 
 Скриншот 3 к заданию 6  
-![Screen 3](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_205.png)   
+![Screen 3](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_205.png)   
 
 ## Задача 6.1
 Добейтесь аналогичного результата, используя docker cp.  
@@ -181,4 +181,4 @@ https://github.com/jack34ru/shvirtd-example-python
 ## Решение 6.1
 
 Скриншот 1 к заданию 6.1  
-![Screen 1](https://github.com/jack34ru/docker-compose/blob/main/screenshots/Screenshot_209.png)  
+![Screen 1](https://github.com/jack34ru/docker-part-2/blob/main/screenshots/Screenshot_209.png)  
